@@ -1,4 +1,3 @@
-output folder
 # Project: Weakly supervised learning-- label noise and correction
 
 
