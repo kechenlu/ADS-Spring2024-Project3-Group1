@@ -16,7 +16,10 @@ Term: Spring 2024
 	
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md))    
-+ 
++ Zhaoyang,Li:
++ Yinpei,Wang:
++ Yuqi,Liu:
++ Kechen,Lu:
 
 
 ```
