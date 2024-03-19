@@ -6,7 +6,7 @@ output folder
 
 Term: Spring 2024
 
-+ Group ##1
++ Group 1
 + Group members
 	+ Group member Yuqi,Liu
 	+ Group member 
@@ -21,12 +21,12 @@ Term: Spring 2024
 
 
 ```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
+GitHub_proj/
+├──data/
+├──doc/
+├────main.ipynb
+├──figs/
+├──output/
+├──README.md
 ```
-
 Please see each subfolder for a README file.
