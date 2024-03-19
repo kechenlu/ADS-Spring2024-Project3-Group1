@@ -1,6 +1,5 @@
 # Project: Weakly supervised learning-- label noise and correction
 
-
 ### [Full Project Description](doc/project3_desc.md)
 
 Term: Spring 2024
