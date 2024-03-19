@@ -15,7 +15,7 @@ Term: Spring 2024
 + Project summary: In this project, we created a predictive model to conduct image classification. We input the images and the labels to find the pattern behind the noisy labels and correct all the noise. Then we return on model 1 to predict.
 	
 
-**Contribution statement**: ([default](doc/a_note_on_contributions.md))   
+**Contribution statement**: ([default](doc/a_note_on_contributions))   
 + Zhaoyang,Li:
 + Yinpei,Wang:
 + Yuqi,Liu:
