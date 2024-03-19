@@ -4,13 +4,12 @@
 ### [Full Project Description](doc/project3_desc.md)
 
 Term: Spring 2024
-
-+ Group 1
-+ Group members
-	+ Group member Yuqi,Liu
-	+ Group member Zhaoyang,Li
-	+ Group member Yinpei,Wang
-	+ Group member Kechen,Lu
++ Team ##1
++ Team members
+	+ team member 1 Yuqi,Liu
+	+ team member 2 Zhaoyang,Li
+	+ team member 3 Yinpei,Wang
+	+ team member 4 Kechen,Lu
 
 + Project summary: In this project, we created a predictive model to conduct image classification. We input the images and the labels to find the pattern behind the noisy labels and correct all the noise. Then we return on model 1 to predict.
 	
